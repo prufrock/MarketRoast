@@ -1,4 +1,7 @@
-# Don't commit log file
+# Don't commit the report.
+report.xml
+
+# Don't commit log file.
 *.log
 
 # Project configuration file - don't commit because it includes AWS keys
