@@ -1,3 +1,10 @@
+# Don't commit log file
+*.log
+
+# Project configuration file - don't commit because it includes AWS keys
+marketroast.properties
+src/com/amazonaws/mws
+
 # Created by .ignore support plugin (hsz.mobi)
 ### JetBrains template
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion
